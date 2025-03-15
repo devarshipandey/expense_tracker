@@ -118,7 +118,7 @@ python manage.py runserver
 
 ## 📞 **Contact**
 If you have any issues or suggestions, feel free to reach out:
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/devarshirpandey)
+- LinkedIn: ([https://linkedin.com/in/devarshirpandey])
 
 ---
 
