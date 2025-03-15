@@ -5,7 +5,8 @@ An **Expense Tracker Web App** built with **Django** and deployed on **Vercel**.
 ---
 
 ## 📌 **Live Demo**
-[Click here to check the live app 🔥]([https://expense-tracker-nine-flax.vercel.app/])
+[🔥 Click here to check the live app 🔥](https://expense-tracker-nine-flax.vercel.app/)
+
 
 ---
 
