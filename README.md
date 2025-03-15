@@ -19,51 +19,6 @@ An **Expense Tracker Web App** built with **Django** and deployed on **Vercel**.
 
 ---
 
-## 📂 **Project Structure**
-
-```
-EXPENSETRACKER/
-│
-├── env/
-│
-├── expense_tracker/
-│   ├── __pycache__/
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── expenses/
-│   ├── __pycache__/
-│   ├── migrations/
-│   ├── static/expenses/
-│   │   ├── images/
-│   │   ├── src.css
-│   │   ├── style.css
-│   │   └── styles.css
-│   ├── templates/
-│   ├── admin.py
-│   ├── apps.py
-│   ├── forms.py
-│   ├── models.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
-│
-├── node_modules/
-├── staticfiles_build/
-│   └── static/
-├── build_files.sh
-├── db.sqlite3
-├── manage.py
-├── package-lock.json
-├── package.json
-├── requirements.txt
-└── vercel.json
-```
-
----
-
 ## 🎯 **Features**
   
 ✅ Add Expenses  
