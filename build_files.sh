@@ -1,8 +1,12 @@
+#!/bin/bash
+
 # Install dependencies
-pip install -r requirements.txt
+echo "Building the project.."
+python3.9 -m pip install -r requirements.txt
 
 # Run migrations (if any)
-python manage.py migrate
+echo "Make Migration..."
+python3.9 manage.py migrate
 
 # Collect static files (for deployment)
-python manage.py collectstatic --noinput
+python3.9 manage.py collectstatic --noinput --clear
